@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sueit-test" />
+        <module name="sueittest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sueit-test" target="1.9" />
+      <module name="sueittest" target="1.9" />
     </bytecodeTargetLevel>
   </component>
 </project>
